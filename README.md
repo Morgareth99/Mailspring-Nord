@@ -1,6 +1,8 @@
-# Mailspring Theme Starter
+# Nord Mailspring Theme
+## A Mailspring theme based on the Nord colour scheme found at: https://www.nordtheme.com/docs/colors-and-palettes
 
-The Mailspring Theme Starter is a basic starting point for creating a theme for
+
+# Mailspring guide:
 the [Mailspring](http://www.getmailspring.com/) email client.
 
 <img src="https://raw.githubusercontent.com/Foundry376/Mailspring-Theme-Starter/master/screenshot/custom-theme.png" />
